@@ -56,6 +56,6 @@ Push to your fork:<br> git push origin feature-branch
 
 Create a pull request
 
-###License 📜
+License 📜
 This project is open-source under the MIT License.
 
